@@ -1,3 +1,4 @@
 # G780f-T-m-S20FE
+Exynos 990
 
-Too many errors to build
+build with python 2.7
