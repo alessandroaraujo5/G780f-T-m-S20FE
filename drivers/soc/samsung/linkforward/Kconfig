@@ -6,6 +6,6 @@ menuconfig LINK_FORWARD
 	depends on !HW_FORWARD
 	default n
 	help
-	  This option enables link layer forwarding using SW translation. This
-	  support IP packet NAT translation. This option can not be used with
-	  DIT(Direct IP Translation) feature (HW_FORWARD).
+	  This option enables link layer forwarding using SW translation.
+	  This supports IP packet NAT translation.
+	  This option cannot be used with DIT (Direct IP Translation) feature (HW_FORWARD).
